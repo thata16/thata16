@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @thata16
 - 👀 I'm interested in work and knowledge
-- 🌱 I'm currently learning Distributed and mobile systems and Usability, web, mobile and game development
+- 🌱 I'm currently learning development
 - 💞️ I'm looking to collaborate on future projects
 - 📫 How to contact me cttothata@gmail.com
 <!---
